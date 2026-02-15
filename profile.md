@@ -8,6 +8,11 @@ Amarnath
 
 I am learning Git and GitHub as part of my practice assignment.
 
+## Goals
+
+- Become a full stack developer
+- Contribute to open source
+
 ## Skills
 
 - Python
@@ -22,3 +27,13 @@ I am learning Git and GitHub as part of my practice assignment.
 ## Fun Fact
 
 I enjoy exploring new technologies.
+
+## Career Goals
+
+- Become a software engineer
+- Work on real-world projects
+
+## Strengths
+
+- Quick learner
+- Team player
