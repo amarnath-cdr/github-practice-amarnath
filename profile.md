@@ -32,3 +32,8 @@ I enjoy exploring new technologies.
 
 - Become a software engineer
 - Work on real-world projects
+
+## Strengths
+
+- Quick learner
+- Team player
