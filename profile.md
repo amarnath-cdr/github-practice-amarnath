@@ -8,6 +8,11 @@ Amarnath
 
 I am learning Git and GitHub as part of my practice assignment.
 
+## Goals
+
+- Become a full stack developer
+- Contribute to open source
+
 ## Skills
 
 - Python
